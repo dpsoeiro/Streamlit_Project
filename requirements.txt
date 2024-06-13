@@ -1,0 +1,16 @@
+lxml==5.2.2
+lxml==4.9.3
+matplotlib==3.8.0
+mplsoccer==1.2.4
+numpy==1.24.3
+pandas==2.2.2
+PyAutoGUI==0.9.54
+scikit_learn==1.2.2
+scikit_learn==1.4.2
+scipy==1.11.4
+scipy==1.10.1
+seaborn==0.13.2
+soccerplots==1.0.0
+streamlit==1.30.0
+streamlit==1.33.0
+umap==0.1.1
