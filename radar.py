@@ -24,8 +24,8 @@ from scipy.spatial import distance
 from sklearn.metrics import silhouette_score
 from sklearn.metrics import pairwise_distances
 import matplotlib as mpl
-import tkinter as tk
-from tkinter import ttk
+#import tkinter as tk
+#from tkinter import ttk
 from math import sqrt
 import soccerplots
 from soccerplots.radar_chart import Radar  
